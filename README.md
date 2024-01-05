@@ -24,6 +24,8 @@ The following **required** functionality is completed:
     Extensive music library with personalized playlists
     Collaborative playlists for sharing music with friends
     Offline mode for listening without an internet connection
+
+  
 **App Idea: TaskHarbor**
 TaskHarbor is designed to be an all-in-one productivity hub, combining task management, collaboration, and time tracking in a seamless interface. Users can create and organize tasks with priority levels, due dates, and detailed descriptions. The app also allows users to collaborate on tasks, share files, and communicate within the platform, streamlining team projects. One unique feature is the integration of intelligent time tracking, where the app not only records the time spent on tasks but also provides insights on productivity patterns. Users can set goals, receive personalized productivity tips, and visualize their workflow. TaskHarbor aims to be a comprehensive solution for individuals and teams seeking efficient task management and productivity enhancement.
 ## Notes
